@@ -35,6 +35,9 @@ Star reviews go from 1 - 5 however there was a large portion of audio books that
 
 I grouped the priceing into ranges of £5 up into everything over £30. The reason for this was it enabled me to create the visulisation to see if certain price ranges are more highly rated
 
-  
-
+### Picture of the Visulisation
 ![Alt text](Audible-Project/Audible%20Data%20Dashboard.png)
+
+Dataset: https://www.kaggle.com/datasets/snehangsude/audible-dataset
+
+## Seattle Airbnb Project
