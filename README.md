@@ -3,7 +3,7 @@ This repository contains Tableau dashboard and Analysis I have competed regardin
 * Analyzing Audible data
 * Analyzing Seattle Airbnb data
 
-These projects can also be found at my Tableau public - https://public.tableau.com/app/profile/christopher.moore4696/vizzes
+These projects can also be found at my Tableau public profile - https://public.tableau.com/app/profile/christopher.moore4696/vizzes
 
 These Conain 2 projects
 
