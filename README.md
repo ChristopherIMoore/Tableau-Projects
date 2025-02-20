@@ -37,7 +37,26 @@ I grouped the priceing into ranges of £5 up into everything over £30. The reas
 
 ### Picture of the Visulisation
 ![Alt text](Audible-Project/Audible%20Data%20Dashboard.png)
+### Analysis
+By Far the most common language used is English which makes sense as Audible only started opening up to other markets using other languages.
+English also has the most expensive average price however more expensive books are typicly the lowest rated and the highest rated are the ranges of £10 - £14.99 and followed closly by £5 - £9.99.
+The most popular authors are Kristen Ashley, Osho & Gertrude Chandler Warner but the 10th most popular is Innovative Language Learning with a sharp decrease of 0.38 from 9th place of Nora Roberts. 
+Overall English books dominate the market with the most popular books being priced around £5 - £15. 
 
 Dataset: https://www.kaggle.com/datasets/snehangsude/audible-dataset
 
 ## Seattle Airbnb Project
+### Aim of Project
+Visulise the Airbnb Market in Seattle to help inform new prospecting Airbnb hosts on the market 
+* Find the Average price based on Zipcode
+* Find the Average price based on bedrooms
+* Find the bext time to open the Airbnb
+* Find how much compatatition each 
+
+### Context
+
+
+### CSV changes
+
+
+### Tableau Editing for creating tables
