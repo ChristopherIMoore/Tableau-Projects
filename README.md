@@ -5,4 +5,4 @@ These Conain 2 projects
 Audible
 
 Seattle Airbnb
-![Alt text](Tableau-Projects/Audible-Project/AudibleDataDashboard.pdf)
+![Alt text](Audible-Project/Audible Data Dashboard.pdf)
